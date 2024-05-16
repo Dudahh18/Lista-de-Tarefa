@@ -1,3 +1,5 @@
+#### PT
+
 # ✅ SimpleTask - Sua Lista de Tarefas Simples e Eficiente!
 **Bem-vindo ao SimpleTask! 📝✨**
 
@@ -28,6 +30,7 @@ O SimpleTask foi criado com simplicidade em mente. Nosso objetivo é oferecer um
 **Organize suas tarefas diárias de forma simples e eficiente com SimpleTask! 🎯✅**
 
 -------------------------------------------------------------------------------------------
+#### EN
 
 # ✅ SimpleTask - Your Simple and Efficient Task List!
 **Welcome to SimpleTask! 📝✨**
